@@ -1,2 +1,2 @@
-# massdmbot
-Make a mass dm discord bot
+# Mass DM Bot
+Make a mass dm discord bot that messages everyone in your server
